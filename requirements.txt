@@ -1,4 +1,4 @@
 flask
-tensorflow-cpu
+#tensorflow-cpu ->model cannot run without this, and it does not upload to vercel
 numpy
 pillow
