@@ -1,4 +1,4 @@
 flask
-tensorflow-lite
+tflite-runtime
 numpy
 pillow
